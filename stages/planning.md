@@ -3,7 +3,8 @@
 <img src="https://user-images.githubusercontent.com/10748736/112021549-50c5ea80-8b29-11eb-81bc-685d44da6dd1.png" width="250" height="150">
 
 ## __Pipeline stage:__  
-### __Stage description:__ Insert your description of the stage here  
+### __Stage description:__  
+Insert your description of the stage here  
 
 | Pipeline Stage:<br>Planning  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |

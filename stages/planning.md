@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/10748736/112021549-50c5ea80-8b29-11eb-81bc-685d44da6dd1.png">
 
-## __Pipeline stage:__  
+## __Pipeline stage:__  Planning  
 ### __Stage description:__  
 Insert your description of the stage here  
 

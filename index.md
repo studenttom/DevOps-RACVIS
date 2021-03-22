@@ -1,6 +1,6 @@
 # RACIVS matrix for DevOps Pipelines  
 
-<img src="https://user-images.githubusercontent.com/10748736/112021549-50c5ea80-8b29-11eb-81bc-685d44da6dd1.png">
+<img src="https://user-images.githubusercontent.com/10748736/112030685-6c81be80-8b32-11eb-94b8-c2c01b8f4581.png">
 
 
 [Plan phase](/stages/planning.md)  

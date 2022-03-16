@@ -20,14 +20,13 @@ When there is consistency across these environments, there is a reduced chance o
 
 | Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | System administrator |Security Team
 |----------------------------- |-------- |-------- |-------- |--------  |--------  |---------
-| Code compilation             |     I   |     I    |   A      |    S     |    I      |    I      |
-| Code compliance             |      I   |     A, S    |   C      |    V     |    I      |    R      |
-| Unit test                    |     I    |     A, S    |    V     |    R      |    C      |    I      |
-| Code Analysis                |     I    |     S    |    R, A     |    C      |    I      |    I      |
-| Perform Test Deployment      |    I     |     S    |     C    |     A     |     V     |     R     |             
-| Perform Canary Deployment    |    V     |    A     |   C      |    I     |   R       |     C     |
-| Perform Production Deployment |    I     |    S     |   A      |    V      |    R     |      V    |  
-         |         |         |         |         |         |
-  
+| Code compilation             |     I   |     I   |    A     |    S     |    I      |    I    |
+| Code compliance              |     I   |   A, S  |    C     |    V     |    I      |    R    |
+| Unit test                    |     I   |   A, S  |    V     |    R     |    C      |    I    |
+| Code Analysis                |     I   |     S   |   R, A   |    C     |    I      |    I    |
+| Perform Test Deployment      |     I   |     S   |   C      |    A     |    V      |    R    |             
+| Perform Canary Deployment    |     V   |    A    |   C      |    I     |    R      |    C    |
+| Perform Production Deployment |    I   |    S    |   A      |    V     |    R      |    V    |  
+   
   
 [Home](../index.md)  

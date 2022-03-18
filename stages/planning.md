@@ -4,7 +4,7 @@
 
 ## __Pipeline stage:__  Plan  
 ### __Stage description:__  
-Insert your description of the stage here  
+In the planning stage, Product Managers gather requirements and feedback from all stakeholders in order to build a project 'map', with the aim of providing clarity on the process to the stakeholders. Techniques such as story point estimates, Epics and user stories are implemented to provide indicators throughout the project that teams can rely on the gauge the progress/success of the project.
 | Pipeline Stage:<br>Plan      | Project Managers | Business Analayst  | Project Developement Team |  Project Sponsor/Owner | Architect/UX/UI | Users |    
 |----------------------------- |------------------|--------------------|---------------------------|------------------------|-----------------|-------|     
 |Project plan                  |           SRA    |        AR          |         ACR               |       SCRI             |       RA        |   C   |
@@ -16,9 +16,6 @@ Insert your description of the stage here
 |Cost Estimation               |          R       |         R          |                           |        IA              |                 |       |
 
 
-
-| Pipeline Stage:<br>Plan  | Project Managers  |Business Analayst   |Project Developement Team   |Project Sponsor/Owner  | Architect/UX/UI| Users |
-|--------------------------|-------------------|--------------------|----------------------------|-----------------------|----------------|-------|
 **Observation: Beyond the list above, The stages involved in development planning processes are numerous.** 
 **It consists of a systematic way of making decisions concerning the need and future of all the stages in DevOp Pipeline-**
 **Also consists  of the way of developing short-and long-term solutions to those needs.**
